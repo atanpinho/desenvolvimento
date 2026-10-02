@@ -2,4 +2,6 @@ h1 {
     color: blue;
     font-size: 40px;
     background-color: yellow;
+    margin: 30px;
+    padding: 10px;
 }
